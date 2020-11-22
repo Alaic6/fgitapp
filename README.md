@@ -1,6 +1,6 @@
 # fgitapp_local
 
-Alaic6 Flutter App & Git studies
+Alaic6 Flutter App & Git Studies
 
 ## Getting Started
 
