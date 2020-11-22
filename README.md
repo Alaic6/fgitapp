@@ -1,6 +1,6 @@
 # fgitapp_local
 
-A new Flutter project.
+Alaic6 Flutter App & Git studies
 
 ## Getting Started
 
